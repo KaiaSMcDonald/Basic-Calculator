@@ -48,6 +48,9 @@ elif [[ $choice -eq 4 ]]; then
    else 
         echo "Error: Division by zero is not accepted."
    fi
+else
+        echo "Please enter another interger that isn't zero"
+fi
 
 
 
