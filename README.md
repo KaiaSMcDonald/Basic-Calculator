@@ -14,3 +14,6 @@ This is the outcome of the script performing the subtration operation with the n
 
 This is the outcome of the script performing the division operation specifically when the user entered zero as a interger. 
 
+![Screenshot 08-11-2024](https://github.com/KaiaSMcDonald/Basic-Calculator/blob/main/Screenshot%202024-08-11%20at%2010.41.27%20PM.png)
+
+This is the outcome of the script performing the multiplication operation with the numbers the user entered.
